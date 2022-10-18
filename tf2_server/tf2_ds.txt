@@ -1,0 +1,4 @@
+force_install_dir P:/SteamCMD/tf2_server
+login anonymous
+app_update 232250 validate
+quit
