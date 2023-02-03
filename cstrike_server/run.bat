@@ -1,0 +1,1 @@
+start srcds.exe -game cstrike -maxplayers 20 -port 27015 +map de_dust2
