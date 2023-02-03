@@ -1,2 +1,2 @@
 # source-server
-Server files for Gmod, L4D2, CSGO &amp; Gmod
+Server files for GMOD, L4D2, CSGO &amp; CS Source
